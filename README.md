@@ -1,9 +1,9 @@
 #Custom ERC-20 Token 
 "COMPANY": COTECH IT SOLUTIONS
 
-"NAME": MADIHA NAAZ
+"NAME": SARVATH KOUNEIN
 
-"INTERN ID": CT08IYC
+"INTERN ID": CT08IYZ
 
 "DOMAIN": BLOCK CHAIN TECHNOLOGY
 
@@ -13,7 +13,7 @@
 
 "DESCRIPTION":
 
-#Task 1:
+#Task 2:
 
 #Custom ERC-20 Token Smart Contract
 ##Overview
@@ -36,7 +36,7 @@ totalSupply(): Returns the total supply of tokens.
 
 #Deployment Steps
 1.Open Remix IDE.
-2.Create a new file and paste the ERC20Token.sol code.
+2.Create a new file and paste the CustomToken.sol code.
 3.Compile the contract using Solidity 0.8.x compiler.
 4.Deploy the contract using MetaMask on a test Ethereum network (Goerli, Sepolia, etc.).
 5.Use Remix UI or Web3.js to interact with the contract.
@@ -57,4 +57,4 @@ Remix IDE or Hardhat for development
 
 Task2:
 
-![output1](
+![output1](https://github.com/user-attachments/assets/464ed779-2656-4efd-8489-42590bb15f50)
